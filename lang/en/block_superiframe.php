@@ -42,3 +42,10 @@ $string['height'] = 'Block height';
 $string['height_details'] = 'height in px';
 $string['pagelayout'] = 'Page layout';
 $string['pagelayout_details'] = 'Set the page layout';
+// text for the size links
+$string['large'] = 'Large';
+$string['medium'] = 'Medium';
+$string['small'] = 'Small';
+$string['custom'] = 'Custom';
+$string['select_size'] = 'Select a size for the iFrame';
+

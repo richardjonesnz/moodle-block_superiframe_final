@@ -1,0 +1,39 @@
+/* Super iframe block styles*/
+
+/* Size links div */
+.block_superiframe_sizes {
+  background-color: 333;
+}
+/* Size links ul */
+.block_superiframe_size_links {
+  list-style-type:none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  positon:fixed;
+  top: 0;
+  width:100%;
+}
+.block_superiframe_size_links li {
+  float:left;
+  border-right: 1px solid #bbb;
+}
+.block_superiframe_size_links li:last-child {
+  border-right: none;
+}
+
+.block_superiframe_size_links li a {   
+  display:block;
+  color:#EEE;
+  text-decoration: none;
+  padding: 0px 10px 0px 10px;
+}
+.block_superiframe_size_links li a:hover {
+  background-color: #555;
+  color: white;
+}
+/* iFrame div */
+.block_superiframe_main {
+  background-color: #CCC;
+}
